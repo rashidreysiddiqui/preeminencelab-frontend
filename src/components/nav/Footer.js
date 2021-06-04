@@ -45,7 +45,7 @@ const Footer = () => {
             <h6>Quick Links</h6>
             <ul className="footer-links">
               <li>
-                <Link to="/about">About Us</Link>
+                <Link to="/about-us">About Us</Link>
               </li>
               {/* <li>
                 <Link to="/contact">Contact Us</Link>
@@ -69,7 +69,7 @@ const Footer = () => {
           <div className="col-md-8 col-sm-6 col-xs-12">
             <p className="copyright-text">
               Copyright &copy; {new Date().getFullYear()} All Rights Reserved by
-              <Link to="/"> Darwin.com</Link>.
+              <Link to="/"> Darvwin.com</Link>.
             </p>
           </div>
 

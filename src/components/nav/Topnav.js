@@ -5,7 +5,7 @@ const Topnav = () => {
   return (
     <nav className="navbar navbar-expand-md">
       <Link className="navbar-brand" to="/">
-        <img src={Logo} alt="logo" style={{ width: "40px" }} /> DARWIN
+        <img src={Logo} alt="logo" style={{ width: "40px" }} /> DARVWIN
       </Link>
       <button
         className="navbar-toggler"
@@ -16,7 +16,9 @@ const Topnav = () => {
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
-        <span className="material-icons">menu</span>
+        <span className="material-icons" style={{ color: "#03989e" }}>
+          menu
+        </span>
       </button>
 
       <div className="collapse navbar-collapse" id="navbarSupportedContent">

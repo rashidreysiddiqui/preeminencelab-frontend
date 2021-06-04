@@ -63,7 +63,7 @@ const Home = () => {
             </div>
           </div>
           <div className="col-md-6">
-            <div className="card">
+            <div className="card mb-4">
               <img
                 src={Banner2}
                 style={{ width: "100%", height: "50vh", objectFit: "contain" }}
@@ -75,7 +75,7 @@ const Home = () => {
             </div>
           </div>
           <div className="col-md-6">
-            <div className="card">
+            <div className="card mb-4">
               <img
                 src={Banner3}
                 style={{ width: "100%", height: "50vh", objectFit: "contain" }}
@@ -87,7 +87,7 @@ const Home = () => {
             </div>
           </div>
           <div className="col-md-6">
-            <div className="card">
+            <div className="card mb-4">
               <img
                 src={Banner1}
                 style={{ width: "100%", height: "50vh", objectFit: "contain" }}
