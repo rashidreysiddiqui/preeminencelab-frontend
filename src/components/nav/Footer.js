@@ -7,16 +7,12 @@ const Footer = () => {
           <div className="col-sm-12 col-md-6">
             <h6>About</h6>
             <p className="text-justify">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et
-              eleifend nulla. Curabitur eget pulvinar ex. Ut pharetra, nulla
-              vitae sagittis maximus, justo nunc ullamcorper nisl, in imperdiet
-              lectus velit sit amet ipsum. Etiam varius, augue eu efficitur
-              tristique, risus enim efficitur massa, ac ullamcorper dui magna id
-              neque. Pellentesque volutpat orci orci, vehicula pretium urna
-              sagittis vitae. In tristique in est at semper. Cras sit amet
-              lectus vitae magna pulvinar ullamcorper. In mattis, risus accumsan
-              iaculis dapibus, lacus ligula tincidunt velit, quis auctor lorem
-              enim non diam.
+              Darvwin softwares is formed with the vision of providing end to
+              end online service to those businessmen who want to go online, so
+              that they don't have to hassle while looking for the industry
+              experts at different places. We, at darvwin softwares, are a group
+              of high performing experts from the feild of website development ,
+              app development , graphic designing and digital marketing.
             </p>
           </div>
 
@@ -79,7 +75,7 @@ const Footer = () => {
                 <a
                   className="facebook"
                   target="/"
-                  href="https://www.facebook.com"
+                  href="https://www.facebook.com/Darvwin-softwares-109479151341159/"
                 >
                   <i className="fa fa-facebook"></i>
                 </a>
@@ -89,7 +85,7 @@ const Footer = () => {
                 <a
                   className="instagram"
                   target="/"
-                  href="https://www.instagram.com"
+                  href="https://instagram.com/darvwin_softwares?utm_medium=copy_link"
                 >
                   <i className="fa fa-instagram"></i>
                 </a>
