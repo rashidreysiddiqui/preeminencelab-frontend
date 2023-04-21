@@ -17,10 +17,10 @@ const About = () => {
         </div>
         <div className="col-md-6">
           <p className="about-us-body">
-            Darvwin softwares is formed with the vision of providing end to end
+            Preeminence Lab softwares is formed with the vision of providing end to end
             online service to those businessmen who want to go online, so that
             they don't have to hassle while looking for the industry experts at
-            different places. We, at darvwin softwares, are a group of high
+            different places. We, at Preeminence Lab softwares, are a group of high
             performing experts from the feild of website development , app
             development , graphic designing and digital marketing. We ,
             individually and in collaboration , have worked upon multiple
@@ -33,7 +33,7 @@ const About = () => {
             digitally so that you take a lead in your business and explore
             unlimited potential of online world. So, If you want any of the
             services mentioned above give us a message and we will be happy to
-            reply with the best solution for you. Team Darvwin
+            reply with the best solution for you. Team Preeminence Lab
           </p>
         </div>
       </div>

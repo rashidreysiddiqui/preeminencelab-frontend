@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 const Topnav = () => {
   return (
     <nav className="navbar navbar-expand-md">
-      <Link className="navbar-brand" to="/">
-        <img src={Logo} alt="logo" style={{ width: "40px" }} /> DARVWIN
+      <Link className="navbar-brand d-flex align-items-center" to="/">
+        <img src={Logo} alt="logo" style={{ width: "40px" }} className="mr-2" /> Preeminence Lab
       </Link>
       <button
         className="navbar-toggler"
@@ -37,11 +37,11 @@ const Topnav = () => {
               About Us
             </Link>
           </li>
-          <li className="nav-item">
+          {/* <li className="nav-item">
             <Link className="nav-link" to="/pricing">
               Pricing
             </Link>
-          </li>
+          </li> */}
           <li className="nav-item active">
             <Link className="nav-link" to="/contact-us">
               Contact Us

@@ -2,7 +2,8 @@ import ContactUs from "../images/ContactUs.png";
 const Contact = () => {
   return (
     <div className="container">
-      <div className="row">
+      
+      <div className="row mb-4">
         <div className="col-md-6">
           <div className="p-5">
             <img
@@ -49,6 +50,30 @@ const Contact = () => {
 
             <button className="btn btn-lg my-btn-primary">Send</button>
           </form>
+        </div>
+      </div>
+
+      <div className="row">
+        <div className="col-md-4">
+          <div className="border d-flex flex-column align-items-center p-3 h-100">
+            <i className="ri-map-pin-line" style={{color:"#03989e",fontSize:"2rem"}}></i>
+            <h4 style={{color:"#03989e"}}>Address</h4>
+            <p className="text-center">Dehradun Township- Bidholi- Majhaun Rd, Pondha, Uttarakhand 248007</p>
+          </div>
+        </div>
+        <div className="col-md-4">
+          <div className="border d-flex flex-column align-items-center p-3 h-100">
+            <i className="ri-phone-line" style={{color:"#03989e",fontSize:"2rem"}}></i>
+            <h4 style={{color:"#03989e"}}>Phone</h4>
+            <a href="tel:+91-7017554779">+91-7017554779</a>
+          </div>
+        </div>
+        <div className="col-md-4">
+          <div className="border d-flex flex-column align-items-center p-3 h-100">
+            <i className="ri-mail-line" style={{color:"#03989e", fontSize:"2rem"}}></i>
+            <h4 style={{color:"#03989e"}}>Email</h4>
+            <a href="mailto:preeminencelab@gmail.com">preeminencelab@gmail.com</a>
+          </div>
         </div>
       </div>
     </div>
