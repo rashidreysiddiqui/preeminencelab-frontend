@@ -44,7 +44,7 @@ const Footer = () => {
                 <i className="ri-phone-line mr-2"></i> <a href="tel:+91-7017554779" style={{cursor:"pointer"}}>+91-7017554779</a>
               </li>
               <li className="d-flex align-items-center">
-                <i className="ri-mail-line mr-2"></i> <a href="mailto:preeminencelab@gmail.com" style={{cursor:"pointer"}}>preeminencelab@gmail.com</a>
+                <i className="ri-mail-line mr-2"></i> <a href="mailto:info@preeminencelab.in" style={{cursor:"pointer"}}>info@preeminencelab.in</a>
               </li>
             </ul>
           </div>

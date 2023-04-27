@@ -72,7 +72,7 @@ const Contact = () => {
           <div className="border d-flex flex-column align-items-center p-3 h-100">
             <i className="ri-mail-line" style={{color:"#03989e", fontSize:"2rem"}}></i>
             <h4 style={{color:"#03989e"}}>Email</h4>
-            <a href="mailto:preeminencelab@gmail.com">preeminencelab@gmail.com</a>
+            <a href="mailto:info@preeminencelab.in">info@preeminencelab.in</a>
           </div>
         </div>
       </div>
