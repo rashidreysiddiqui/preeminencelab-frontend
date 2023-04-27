@@ -41,7 +41,7 @@ const About = () => {
       <br />
       <br />
 
-      <h2 className="section-title mt-4">Who We Are</h2>
+      {/* <h2 className="section-title mt-4">Who We Are</h2>
       <p className="about-us-body">
         Maecenas finibus suscipit ipsum, nec condimentum magna porttitor a.
         Vivamus sagittis cursus nisi. Duis scelerisque fermentum nibh in
@@ -77,7 +77,7 @@ const About = () => {
         ligula gravida, vel vestibulum ligula vehicula. Nunc ac metus blandit
         enim sollicitudin rhoncus. Pellentesque sit amet luctus mi, sed interdum
         nisl. Nullam in mi vitae nisl convallis condimentum non sed mi.
-      </p>
+      </p> */}
     </div>
   );
 };
