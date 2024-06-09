@@ -65,7 +65,7 @@ const Contact = () => {
           <div className="border d-flex flex-column align-items-center p-3 h-100">
             <i className="ri-phone-line" style={{color:"#03989e",fontSize:"2rem"}}></i>
             <h4 style={{color:"#03989e"}}>Phone</h4>
-            <a href="tel:+91-7017554779">+91-7017554779</a>
+            <a href="tel:+91-7899594779">+91-7899594779</a>
           </div>
         </div>
         <div className="col-md-4">
